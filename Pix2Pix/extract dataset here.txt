@@ -1,0 +1,8 @@
+That dataset should be here with the dir structure:
+
+cityscape:
+   : cityscape
+      :train
+      :val
+
+or modify the path in the notebook where the dataset is located
