@@ -2,6 +2,8 @@
 
 ![image](https://github.com/developershutt/GANS/blob/main/Pix2Pix/output/epoch_63.jpg)
 
+[Dataset used](https://www.kaggle.com/vikramtiwari/pix2pix-dataset)
+
 In 2016, Pix2Pix came and dominate the way we do image translation.
 It uses Conditional Generative Adversarial Network to map an input image to target image.
 
@@ -17,5 +19,9 @@ Architecture of Generator
 
 ![image](https://github.com/developershutt/GANS/blob/main/Pix2Pix/assets/generator.png)
 
-This code is taken from a tutorial on Pix2Pix from scratch by Developers Hutt on Youtube.
+This code is taken from a tutorial on Pix2Pix from scratch by Developers Hutt on Youtube. Watch it by clicking below
+
 [![See the video for better explanation of code](https://img.youtube.com/vi/eeeai1OrnDI/0.jpg)](https://www.youtube.com/watch?v=eeeai1OrnDI)
+
+# Credits
+[Credit: Main source code](https://www.tensorflow.org/tutorials/generative/pix2pix)
