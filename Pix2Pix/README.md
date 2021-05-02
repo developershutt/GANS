@@ -7,11 +7,13 @@ It uses Conditional Generative Adversarial Network to map an input image to targ
 
 Pix2Pix also introduced a different Discriminator which check whether a Patch of generated image is real/fake (named PatchGAN).
 
-* disciminator arch link
+Architecture of Discriminator
+![image](https://github.com/developershutt/GANS/blob/main/Pix2Pix/assets/discriminator.png)
 
 And the generator was a U-Net architecture to learn the low level information to generate high quality output
 
-* generator arch link
+Architecture of Generator
+![image](https://github.com/developershutt/GANS/blob/main/Pix2Pix/assets/generator.png)
 
 This code is taken from a tutorial on Pix2Pix from scratch by Developers Hutt on Youtube.
 [![See the video for better explanation of code](https://img.youtube.com/vi/eeeai1OrnDI/0.jpg)](https://www.youtube.com/watch?v=eeeai1OrnDI)
