@@ -24,4 +24,4 @@ This code is taken from a tutorial on Pix2Pix from scratch by Developers Hutt on
 [![See the video for better explanation of code](https://img.youtube.com/vi/eeeai1OrnDI/0.jpg)](https://www.youtube.com/watch?v=eeeai1OrnDI)
 
 # Credits
-[Credit: Main source code](https://www.tensorflow.org/tutorials/generative/pix2pix)
+Credit: Source code is use from Tensorflow website. Find it [here](https://www.tensorflow.org/tutorials/generative/pix2pix)
